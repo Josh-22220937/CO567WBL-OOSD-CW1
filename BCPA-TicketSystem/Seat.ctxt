@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Seat
+comment0.text=\r\n\ The\ Seat\ class\ is\ responsible\ for\ holding\ information\ on\ individual\ seats\ at\ each\ show\r\n
+comment1.params=seatId\ showId
+comment1.target=Seat(java.lang.Integer,\ java.lang.Integer)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Seat\r\n
+numComments=2

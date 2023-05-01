@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Input
+comment0.text=\r\n\ The\ Input\ class\ is\ responsible\ for\ handling\ user\ inputs\r\n
+comment1.params=
+comment1.target=Input()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Input\r\n
+comment2.params=prompt
+comment2.target=java.lang.String\ getInput(java.lang.String)
+comment2.text=\r\n\ Gets\ a\ single\ "word"\ from\ user\ keyboard\ input\r\n
+comment3.params=prompt
+comment3.target=java.lang.String\ getInputLine(java.lang.String)
+comment3.text=\r\n\ Gets\ a\ collection\ of\ words\ from\ user\ keyboard\ input\r\n
+comment4.params=prompt
+comment4.target=java.lang.Integer\ getIntInput(java.lang.String)
+comment4.text=\r\n\ Gets\ a\ single\ Integer\ user\ keyboard\ input\r\n
+numComments=5

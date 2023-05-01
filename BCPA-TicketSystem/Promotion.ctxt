@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Promotion
+comment0.text=\r\n\ The\ Promotion\ class\ is\ responsible\ for\ holding\ the\ information\ about\ a\ specific\ promotion\r\n
+comment1.params=id\ chiDis\ stuDis\ aduDis\ senDis
+comment1.target=Promotion(java.lang.Integer,\ java.lang.Integer,\ java.lang.Integer,\ java.lang.Integer,\ java.lang.Integer)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Promotion\r\n
+comment2.params=
+comment2.target=java.lang.Integer\ getId()
+comment2.text=\r\n\ Returns\ the\ promotion\ ID\r\n
+comment3.params=
+comment3.target=java.lang.Integer\ getChildDiscount()
+comment3.text=\r\n\ Returns\ the\ Child\ discount\ percentage\r\n
+comment4.params=
+comment4.target=java.lang.Integer\ getStudentDiscount()
+comment4.text=\r\n\ Returns\ the\ Student\ discount\ percentage\r\n
+comment5.params=
+comment5.target=java.lang.Integer\ getAdultDiscount()
+comment5.text=\r\n\ Returns\ the\ Adult\ discount\ percentage\r\n
+comment6.params=
+comment6.target=java.lang.Integer\ getSeniorDiscount()
+comment6.text=\r\n\ Returns\ the\ Senior\ discount\ percentage\r\n
+numComments=7

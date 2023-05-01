@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=OnlineTicketSystem
+comment0.text=\r\n\ \ The\ OnlineTicketSystem\ class\ is\ responsible\ for\ creating\ VenueManagers,\ Customers,\ Agents\ etc\r\n\ \ In\ this\ implementation\ it\ only\ creates\ a\ VenueManager\ as\ this\ is\ the\ reach\ of\ the\ systems\ scope\r\n
+comment1.params=
+comment1.target=OnlineTicketSystem()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ OnlineTicketSystem\r\n
+comment2.params=
+comment2.target=void\ startVenueManager()
+comment2.text=\r\n\ Starts\ the\ interface\ for\ the\ VenueManager\ to\ interact\ with\ the\ system\r\n
+numComments=3
