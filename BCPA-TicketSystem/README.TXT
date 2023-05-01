@@ -1,12 +1,12 @@
 ------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all they need to know. The comments should usually include at least:
+This project is a partial implementation of the BCPA-Ticket System as 
+described in the project breif. This system allows the Venue Manager to
+add shows, events and promotions, remove shows events and promotions. 
+Assign Shows to events, as-well as remove them. Assign promotions to shows
+as-well as remove them.
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE: BCPA-Ticket System
+PURPOSE OF PROJECT: Partial Implementation to demonstrate Object Oriented programming
+VERSION or DATE: 01/05/23
+AUTHORS: Josh Harris
